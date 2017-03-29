@@ -1,0 +1,1 @@
+import sys; x = 'Kolaparthi'; sys.stdout.write(x + '\n')#emicolon ( ; ) allows multiple statements

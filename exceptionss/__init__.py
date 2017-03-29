@@ -1,0 +1,1 @@
+from exceptionss import ScopeMyError
